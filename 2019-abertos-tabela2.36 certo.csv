@@ -1,0 +1,256 @@
+﻿Tipo;Derivados;Refinaria;Produção;Estado
+Energéticos;Gasolina A;A;19258,416;AM
+Energéticos;Gasolina de aviação;A;0;AM
+Energéticos;GLP²;A;0;AM
+Energéticos;Óleo combustível3,4;A;44236,101;AM
+Energéticos;Óleo diesel4;A;3536,189;AM
+Energéticos;QAV;A;0;AM
+Energéticos;Querosene iluminante;A;0;AM
+Energéticos;Outros5;A;0;AM
+Energéticos;Gasolina A;B;0;BA
+Energéticos;Gasolina de aviação;B;0;BA
+Energéticos;GLP²;B;0;BA
+Energéticos;Óleo combustível3,4;B;116116,2192;BA
+Energéticos;Óleo diesel4;B;38301,35606;BA
+Energéticos;QAV;B;0;BA
+Energéticos;Querosene iluminante;B;0;BA
+Energéticos;Outros5;B;0;BA
+Energéticos;Gasolina A;C;572392,087;BA
+Energéticos;Gasolina de aviação;C;0;BA
+Energéticos;GLP²;C;0;BA
+Energéticos;Óleo combustível3,4;C;0;BA
+Energéticos;Óleo diesel4;C;0;BA
+Energéticos;QAV;C;0;BA
+Energéticos;Querosene iluminante;C;0;BA
+Energéticos;Outros5;C;0;BA
+Energéticos;Gasolina A;D;1111353;CE
+Energéticos;Gasolina de aviação;D;0;CE
+Energéticos;GLP²;D;275624,3459;CE
+Energéticos;Óleo combustível3,4;D;149690,5855;CE
+Energéticos;Óleo diesel4;D;1391132;CE
+Energéticos;QAV;D;0;CE
+Energéticos;Querosene iluminante;D;0;CE
+Energéticos;Outros5;D;0;CE
+Energéticos;Gasolina A;E;1539150;MG
+Energéticos;Gasolina de aviação;E;0;MG
+Energéticos;GLP²;E;1331789,1;MG
+Energéticos;Óleo combustível3,4;E;1902417,954;MG
+Energéticos;Óleo diesel4;E;3066302;MG
+Energéticos;QAV;E;1427492;MG
+Energéticos;Querosene iluminante;E;0;MG
+Energéticos;Outros5;E;0;MG
+Energéticos;Gasolina A;F;2025822;PE
+Energéticos;Gasolina de aviação;F;0;PE
+Energéticos;GLP²;F;582990,1233;PE
+Energéticos;Óleo combustível3,4;F;402070,4349;PE
+Energéticos;Óleo diesel4;F;3825803;PE
+Energéticos;QAV;F;206894;PE
+Energéticos;Querosene iluminante;F;0;PE
+Energéticos;Outros5;F;0;PE
+Energéticos;Gasolina A;G;2024121;PR
+Energéticos;Gasolina de aviação;G;0;PR
+Energéticos;GLP²;G;647605,4529;PR
+Energéticos;Óleo combustível3,4;G;404448,0305;PR
+Energéticos;Óleo diesel4;G;3839457;PR
+Energéticos;QAV;G;714520;PR
+Energéticos;Querosene iluminante;G;2234;PR
+Energéticos;Outros5;G;0;PR
+Energéticos;Gasolina A;H;501019;RJ
+Energéticos;Gasolina de aviação;H;0;RJ
+Energéticos;GLP²;H;62780,5935;RJ
+Energéticos;Óleo combustível3,4;H;128096,667;RJ
+Energéticos;Óleo diesel4;H;505394,7034;RJ
+Energéticos;QAV;H;125360;RJ
+Energéticos;Querosene iluminante;H;0;RJ
+Energéticos;Outros5;H;0;RJ
+Energéticos;Gasolina A;I;2920710;RJ
+Energéticos;Gasolina de aviação;I;0;RJ
+Energéticos;GLP²;I;949814,8638;RJ
+Energéticos;Óleo combustível3,4;I;494073,3117;RJ
+Energéticos;Óleo diesel4;I;4812816;RJ
+Energéticos;QAV;I;265933;RJ
+Energéticos;Querosene iluminante;I;1656;RJ
+Energéticos;Outros5;I;0;RJ
+Energéticos;Gasolina A;J;4493141;RN
+Energéticos;Gasolina de aviação;J;0;RN
+Energéticos;GLP²;J;1023355,722;RN
+Energéticos;Óleo combustível3,4;J;683757,7756;RN
+Energéticos;Óleo diesel4;J;8351358;RN
+Energéticos;QAV;J;1130999;RN
+Energéticos;Querosene iluminante;J;0;RN
+Energéticos;Outros5;J;0;RN
+Energéticos;Gasolina A;K;3088166;RS
+Energéticos;Gasolina de aviação;K;0;RS
+Energéticos;GLP²;K;1005175,698;RS
+Energéticos;Óleo combustível3,4;K;1528188,54;RS
+Energéticos;Óleo diesel4;K;3773706;RS
+Energéticos;QAV;K;1931763;RS
+Energéticos;Querosene iluminante;K;1072;RS
+Energéticos;Outros5;K;0;RS
+Energéticos;Gasolina A;L;367956,719;RS
+Energéticos;Gasolina de aviação;L;0;RS
+Energéticos;GLP²;L;30648,791;RS
+Energéticos;Óleo combustível3,4;L;75174,986;RS
+Energéticos;Óleo diesel4;L;371466,563;RS
+Energéticos;QAV;L;0;RS
+Energéticos;Querosene iluminante;L;697,363;RS
+Energéticos;Outros5;L;0;RS
+Energéticos;Gasolina A;M;2786645;SP
+Energéticos;Gasolina de aviação;M;0;SP
+Energéticos;GLP²;M;899214,295;SP
+Energéticos;Óleo combustível3,4;M;2969273,1;SP
+Energéticos;Óleo diesel4;M;4491607;SP
+Energéticos;QAV;M;358977;SP
+Energéticos;Querosene iluminante;M;0;SP
+Energéticos;Outros5;M;0;SP
+Energéticos;Gasolina A;N;0;SP
+Energéticos;Gasolina de aviação;N;0;SP
+Energéticos;GLP²;N;99418,85685;SP
+Energéticos;Óleo combustível3,4;N;87861,15102;SP
+Energéticos;Óleo diesel4;N;2954110;SP
+Energéticos;QAV;N;0;SP
+Energéticos;Querosene iluminante;N;0;SP
+Energéticos;Outros5;N;0;SP
+Energéticos;Gasolina A;O;2118840;SP
+Energéticos;Gasolina de aviação;O;46220;SP
+Energéticos;GLP²;O;431901,637;SP
+Energéticos;Óleo combustível3,4;O;536413,4383;SP
+Energéticos;Óleo diesel4;O;4156282;SP
+Energéticos;QAV;O;15621;SP
+Energéticos;Querosene iluminante;O;0;SP
+Energéticos;Outros5;O;0;SP
+Energéticos;Gasolina A;P;138296;SP
+Energéticos;Gasolina de aviação;P;0;SP
+Energéticos;GLP²;P;95287,41414;SP
+Energéticos;Óleo combustível3,4;P;1194518,013;SP
+Energéticos;Óleo diesel4;P;299193;SP
+Energéticos;QAV;P;198774;SP
+Energéticos;Querosene iluminante;P;0;SP
+Energéticos;Outros5;P;0;SP
+Energéticos;Gasolina A;Q;0;SP
+Energéticos;Gasolina de aviação;Q;0;SP
+Energéticos;GLP²;Q;0;SP
+Energéticos;Óleo combustível3,4;Q;0;SP
+Energéticos;Óleo diesel4;Q;0;SP
+Energéticos;QAV;Q;0;SP
+Energéticos;Querosene iluminante;Q;0;SP
+Energéticos;Outros5;Q;0;SP
+Não energéticos;Asfalto;A;0;AM
+Não energéticos;Coque6;A;0;AM
+Não energéticos;Nafta7;A;2689,584;AM
+Não energéticos;Óleo lubrificante;A;0;AM
+Não energéticos;Parafina;A;2277,782;AM
+Não energéticos;Solvente;A;15345,584;AM
+Não energéticos;Outros8;A;0;AM
+Não energéticos;Asfalto;B;198921,3878;BA
+Não energéticos;Coque6;B;0;BA
+Não energéticos;Nafta7;B;0;BA
+Não energéticos;Óleo lubrificante;B;53392;BA
+Não energéticos;Parafina;B;0;BA
+Não energéticos;Solvente;B;0;BA
+Não energéticos;Outros8;B;0;BA
+Não energéticos;Asfalto;C;0;BA
+Não energéticos;Coque6;C;0;BA
+Não energéticos;Nafta7;C;1057,571;BA
+Não energéticos;Óleo lubrificante;C;0;BA
+Não energéticos;Parafina;C;0;BA
+Não energéticos;Solvente;C;0;BA
+Não energéticos;Outros8;C;0;BA
+Não energéticos;Asfalto;D;0;CE
+Não energéticos;Coque6;D;0;CE
+Não energéticos;Nafta7;D;9880,433046;CE
+Não energéticos;Óleo lubrificante;D;0;CE
+Não energéticos;Parafina;D;0;CE
+Não energéticos;Solvente;D;71264;CE
+Não energéticos;Outros8;D;216868,3818;CE
+Não energéticos;Asfalto;E;64486,74925;MG
+Não energéticos;Coque6;E;482936,1654;MG
+Não energéticos;Nafta7;E;1501793,167;MG
+Não energéticos;Óleo lubrificante;E;483090;MG
+Não energéticos;Parafina;E;20652,30502;MG
+Não energéticos;Solvente;E;179;MG
+Não energéticos;Outros8;E;868683,1957;MG
+Não energéticos;Asfalto;F;137164,6018;PE
+Não energéticos;Coque6;F;183604,5063;PE
+Não energéticos;Nafta7;F;296756,646;PE
+Não energéticos;Óleo lubrificante;F;0;PE
+Não energéticos;Parafina;F;0;PE
+Não energéticos;Solvente;F;0;PE
+Não energéticos;Outros8;F;173826,357;PE
+Não energéticos;Asfalto;G;487566,3797;PR
+Não energéticos;Coque6;G;461038,169;PR
+Não energéticos;Nafta7;G;0;PR
+Não energéticos;Óleo lubrificante;G;0;PR
+Não energéticos;Parafina;G;0;PR
+Não energéticos;Solvente;G;0;PR
+Não energéticos;Outros8;G;6413,180474;PR
+Não energéticos;Asfalto;H;91865,41771;RJ
+Não energéticos;Coque6;H;0;RJ
+Não energéticos;Nafta7;H;348048,7442;RJ
+Não energéticos;Óleo lubrificante;H;0;RJ
+Não energéticos;Parafina;H;0;RJ
+Não energéticos;Solvente;H;0;RJ
+Não energéticos;Outros8;H;0;RJ
+Não energéticos;Asfalto;I;311205,9917;RJ
+Não energéticos;Coque6;I;454390,7268;RJ
+Não energéticos;Nafta7;I;0;RJ
+Não energéticos;Óleo lubrificante;I;0;RJ
+Não energéticos;Parafina;I;0;RJ
+Não energéticos;Solvente;I;36618;RJ
+Não energéticos;Outros8;I;275987,2709;RJ
+Não energéticos;Asfalto;J;171369,0639;RN
+Não energéticos;Coque6;J;1296656,393;RN
+Não energéticos;Nafta7;J;16971,69076;RN
+Não energéticos;Óleo lubrificante;J;0;RN
+Não energéticos;Parafina;J;0;RN
+Não energéticos;Solvente;J;0;RN
+Não energéticos;Outros8;J;508081,469;RN
+Não energéticos;Asfalto;K;279477,4251;RS
+Não energéticos;Coque6;K;589737,9636;RS
+Não energéticos;Nafta7;K;905685,3061;RS
+Não energéticos;Óleo lubrificante;K;0;RS
+Não energéticos;Parafina;K;0;RS
+Não energéticos;Solvente;K;2807;RS
+Não energéticos;Outros8;K;169375,3803;RS
+Não energéticos;Asfalto;L;0;RS
+Não energéticos;Coque6;L;0;RS
+Não energéticos;Nafta7;L;0;RS
+Não energéticos;Óleo lubrificante;L;0;RS
+Não energéticos;Parafina;L;0;RS
+Não energéticos;Solvente;L;40603,011;RS
+Não energéticos;Outros8;L;0;RS
+Não energéticos;Asfalto;M;157759,0762;SP
+Não energéticos;Coque6;M;0;SP
+Não energéticos;Nafta7;M;204699,222;SP
+Não energéticos;Óleo lubrificante;M;66399;SP
+Não energéticos;Parafina;M;103266,7353;SP
+Não energéticos;Solvente;M;16199,40421;SP
+Não energéticos;Outros8;M;211000,6526;SP
+Não energéticos;Asfalto;N;0;SP
+Não energéticos;Coque6;N;450614;SP
+Não energéticos;Nafta7;N;752797,3332;SP
+Não energéticos;Óleo lubrificante;N;0;SP
+Não energéticos;Parafina;N;0;SP
+Não energéticos;Solvente;N;0;SP
+Não energéticos;Outros8;N;0;SP
+Não energéticos;Asfalto;O;0;SP
+Não energéticos;Coque6;O;549593,9056;SP
+Não energéticos;Nafta7;O;9850,932611;SP
+Não energéticos;Óleo lubrificante;O;0;SP
+Não energéticos;Parafina;O;0;SP
+Não energéticos;Solvente;O;147401;SP
+Não energéticos;Outros8;O;119752,1016;SP
+Não energéticos;Asfalto;P;0;SP
+Não energéticos;Coque6;P;0;SP
+Não energéticos;Nafta7;P;0;SP
+Não energéticos;Óleo lubrificante;P;0;SP
+Não energéticos;Parafina;P;0;SP
+Não energéticos;Solvente;P;0;SP
+Não energéticos;Outros8;P;0;SP
+Não energéticos;Asfalto;Q;0;SP
+Não energéticos;Coque6;Q;0;SP
+Não energéticos;Nafta7;Q;0;SP
+Não energéticos;Óleo lubrificante;Q;0;SP
+Não energéticos;Parafina;Q;0;SP
+Não energéticos;Solvente;Q;0;SP
+Não energéticos;Outros8;Q;0;SP
